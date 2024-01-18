@@ -1,4 +1,5 @@
 Learning Rust throught the Rust book
+
 1.2 Hello World
 - Get familiarized with the compiler and formatter
 - `rustc main.rs` to compile
